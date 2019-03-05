@@ -1,0 +1,9 @@
+Aufgabe 1:
+
+1) Erstelle ein Remote-Repository hallo_git2	
+2) Entpacke die Dateien aus der Template-Seite von initializr.com in ein Verzeichnis.
+3) Erstelle ein  neues lokales Git Repo hallo_git2.
+4. Verschiebe die Dateien aus 2) nach hallo_git2.
+5) Adde alle Dateien zu deinem ersten Commit mit git add -A
+6) Überprüfe den Status deines lokalen Repos.
+7) Pushe dein lokales Repo in dein Remote Repo aus 1)
